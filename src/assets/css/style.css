@@ -1,0 +1,11 @@
+.background-film{
+    background: url(../img/background/avenger.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    position: relative;
+
+}

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: font-game;
+    src: url('../../assets/fonts/Pony.ttf');
+}
+
+.bg-game {
+    background: url('../../assets/img/bgGame.png');
+    min-height: 100vh;
+    font-family: font-game;
+
+}
